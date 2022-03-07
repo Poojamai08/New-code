@@ -24,6 +24,7 @@ class Home extends Component {
           </ul>
         </nav>
         <h1>React WebPage</h1>
+        <h2>Home page</h2>
       </>
     );
   }
